@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ironbeags
-- 👀 I’m interested in learning AI/ML applications.
-- 🌱 I’m currently learning Python and R languages.
-- 💞️ I’m looking to collaborate on creating a program to provide the lowest prices for the grocery stores in a specific area.
-- 📫 How to reach me: leogenders95@gmail.com
+- 👋 Hi, I’m Leonard Genders.
+- 🌱 I’m currently learning Python, R, and SQL languages and recently added a file to demonstrate my knowledge of SQL queries.
+- 📫 How to reach me: leo.a.genders@gmail.com
 
 <!---
 ironbeags/ironbeags is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
